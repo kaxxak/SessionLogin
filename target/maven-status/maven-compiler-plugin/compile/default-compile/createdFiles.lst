@@ -1,0 +1,3 @@
+am\aro\servlets\LoginServlet.class
+am\aro\filters\AuthFilter.class
+am\aro\fake\FakeStorage.class
